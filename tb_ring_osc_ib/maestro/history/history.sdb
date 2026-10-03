@@ -2,9 +2,9 @@
 <setupdb version="7">history
 	<active>Active Setup</active>
 	<history>History
-		<historyentry assemblerOrExplorer="explorer" historyDataVersion="7" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Oct 2 21:23:27 2026</timestamp>
-			<uuid>{1814a6f2-2d50-40cf-9e0e-8508fb6a85ec}</uuid>
+		<historyentry assemblerOrExplorer="explorer" historyDataVersion="7" roOrView="view" runningOrFinished="running">ExplorerRun.0
+			<timestamp>Oct 3 13:13:15 2026</timestamp>
+			<uuid>{e62ab0a0-c7d7-4a79-a58e-6a44a8c2081a}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/usr/scratch/hhao40/analog-onboarding-F26/Cadence/Virtuoso/AMS_Onboarding_Hanxiang_Hao/tb_ring_osc_ib/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
