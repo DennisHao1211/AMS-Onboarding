@@ -15,7 +15,7 @@
 						<modeltest>All</modeltest>
 						<modelblock>Global</modelblock>
 						<modelfile>/usr/scratch/hhao40/analog-onboarding-F26/PDK/sky130_release_0.0.9/models/sky130.lib.spice</modelfile>
-						<modelsection>"tt", "ff", "ss"</modelsection>
+						<modelsection>"tt"</modelsection>
 					</model>
 				</models>
 			</corner>
@@ -46,6 +46,12 @@
 					</option>
 				</tooloptions>
 				<vars>
+					<var>lcs
+						<value>0.25u</value>
+					</var>
+					<var>s
+						<value>2</value>
+					</var>
 					<var>Vin
 						<value>0.786</value>
 					</var>
@@ -205,7 +211,7 @@
 				<tol></tol>
 			</spec>
 		</specs>
-		<allcornersenabled>0</allcornersenabled>
+		<allcornersenabled>1</allcornersenabled>
 	</active>
 	<history>History
 	</history>

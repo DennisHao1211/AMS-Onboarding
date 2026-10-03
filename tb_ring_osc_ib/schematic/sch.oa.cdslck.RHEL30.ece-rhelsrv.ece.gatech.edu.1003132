@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hhao40
+HostName                       ece-rhelsrv.ece.gatech.edu
+ProcessIdentifier              1003132
+ProcessCreationTime_UTC        1791041011
+ProcessCreationTime_Readable   Sat Oct  3 11:23:31 2026 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /usr/scratch/hhao40/analog-onboarding-F26/Cadence/Virtuoso/AMS_Onboarding_Hanxiang_Hao/tb_ring_osc_ib/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Oct  3 12:49:19 2026 EDT
