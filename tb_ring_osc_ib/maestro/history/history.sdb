@@ -13,5 +13,16 @@
 			<simdir>$AXL_PROJECT_DIR/AMS_Onboarding_Hanxiang_Hao/tb_ring_osc_ib/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 			<historyPsfSize>Not Computed</historyPsfSize>
 		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" historyDataVersion="7" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Oct 13 22:32:15 2026</timestamp>
+			<uuid>{1fab7b84-298a-4765-b53a-e9f4932f95e0}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/usr/scratch/hhao40/analog-onboarding-F26/Cadence/Virtuoso/AMS_Onboarding_Hanxiang_Hao/tb_ring_osc_ib/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<psfdir>/nethome/hhao40/simulation/AMS_Onboarding_Hanxiang_Hao/tb_ring_osc_ib/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/AMS_Onboarding_Hanxiang_Hao/tb_ring_osc_ib/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+			<historyPsfSize>Not Computed</historyPsfSize>
+		</historyentry>
 	</history>
 </setupdb>
