@@ -205,7 +205,7 @@
 				<tol></tol>
 			</spec>
 		</specs>
-		<allcornersenabled>1</allcornersenabled>
+		<allcornersenabled>0</allcornersenabled>
 	</active>
 	<history>History
 	</history>
